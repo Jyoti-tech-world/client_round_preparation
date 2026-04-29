@@ -17,6 +17,7 @@ public class AvoidDuplicate {
 	mp.putIfAbsent(e3.id(),e3);
 	
 	System.out.println(mp);
+	System.out.println("chnage added");
 
 }
 }
